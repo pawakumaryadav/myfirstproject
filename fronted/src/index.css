@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+}
+body{
+  margin: 0;
+  font-family: 'poppins';
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: grayscale;
+}
+code{
+  font-family: sorce-code-pro, Menlo, Monaco, Consolas, 'Courier New' monospace;
+}
